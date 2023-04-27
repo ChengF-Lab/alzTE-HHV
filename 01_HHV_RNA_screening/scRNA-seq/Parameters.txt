@@ -1,0 +1,9 @@
+N_thread=10
+Output_directory="/GSE148822/02_Viral-Track/"
+Index_genome="/Viral_Track_index/"
+Viral_annotation_file="/Viral-Track/HSVs_annotation_file.txt"
+Name_run="GSE148822"
+Load_STAR_module=FALSE
+Load_samtools_module=FALSE
+Load_stringtie_module=FALSE
+Minimal_read_mapped=25
